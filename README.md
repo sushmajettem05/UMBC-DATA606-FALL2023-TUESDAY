@@ -1,6 +1,7 @@
 # Sushma Jettem
 
-Baltimore, MD | [LinkedIn](https://www.linkedin.com/in/sushma-jettem) | +1 667-369-8490 | sushmaj1@umbc.edu
+Baltimore, MD | [LinkedIn](https://www.linkedin.com/in/sushma-jettem) | 📞 667 369 8490 | ✉ sushmaj1@umbc.edu |  [GitHub](github.com/sushmajettem05)
+
 
 ## EDUCATION
 **University of Maryland Baltimore County** - Baltimore, MD
