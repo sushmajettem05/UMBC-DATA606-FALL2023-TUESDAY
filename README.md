@@ -1,4 +1,4 @@
-
+<img src="My_profile_pic.jfif" alt="Profile Image" width="200" height="200" style="float: left; margin-right: 5px; border-radius: 80px; padding: 6px;">
 
 # Sushma Jettem
 
