@@ -1,5 +1,3 @@
-<img src="My_profile_pic.jpg" alt="Profile Image" width="200" height="200" style="float: left; margin-right: 5px; border-radius: 80px; padding: 6px;">
-
 # Sushma Jettem
 
 Baltimore, MD | [LinkedIn](https://www.linkedin.com/in/sushma-jettem) | 📞 667 369 8490 | ✉ sushmaj1@umbc.edu |  [GitHub](github.com/sushmajettem05)
