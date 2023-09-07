@@ -1,4 +1,8 @@
-# Sushma Jettem
+
+
+# Sushma
+![My_profile_pic](https://github.com/sushmajettem05/UMBC-DATA606-FALL2023-TUESDAY/assets/144371682/d2b2a9f9-4c43-41e0-b0c5-4bfc252d03b1)
+ Jettem
 
 Baltimore, MD | [LinkedIn](https://www.linkedin.com/in/sushma-jettem) | 📞 667 369 8490 | ✉ sushmaj1@umbc.edu |  [GitHub](github.com/sushmajettem05)
 
